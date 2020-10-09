@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rosybrown;
+}
+.contenedor{
+    background-color: #ffffff;
+    max-width: 1000px;
+    padding: 80px;
+    margin: auto ;
+    width: 90%;
+    
+}
+h1{
+    text-align: center;
+}
+table{
+    margin: auto;
+}
+img{
+    width:50%;
+    display: block;
+    margin: auto;
+}
+#boton{
+    background: rgb(177, 101, 148);
+    font-size: 15px;
+    display: block;
+    width: 200px;
+    height: 30px;
+    border:none;
+    color:rgb(4, 59, 66); 
+    border-radius: 4px;
+    margin : auto;
+    margin-top: 2rem;
+    
+}
+
+#resultado{
+    margin-top: 2rem;
+}
